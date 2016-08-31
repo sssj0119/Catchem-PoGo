@@ -440,7 +440,7 @@
     },
     {
       "Key": "Butterfree",
-      "Value": "巴大蝶"
+      "Value": "巴大蝴"
     },
     {
       "Key": "Weedle",
@@ -448,7 +448,7 @@
     },
     {
       "Key": "Kakuna",
-      "Value": "鐵殼蛹"
+      "Value": "鐵殼昆"
     },
     {
       "Key": "Beedrill",
@@ -464,7 +464,7 @@
     },
     {
       "Key": "Pidgeot",
-      "Value": "大比鳥"
+      "Value": "比鵰"
     },
     {
       "Key": "Rattata",
@@ -516,7 +516,7 @@
     },
     {
       "Key": "Nidoqueen",
-      "Value": "尼美後"
+      "Value": "尼美后"
     },
     {
       "Key": "NidoranMale",
@@ -584,11 +584,11 @@
     },
     {
       "Key": "Venonat",
-      "Value": "毛毛蟲"
+      "Value": "毛球"
     },
     {
       "Key": "Venomoth",
-      "Value": "摩魯蛾"
+      "Value": "末入蛾"
     },
     {
       "Key": "Diglett",
@@ -636,11 +636,11 @@
     },
     {
       "Key": "Poliwhirl",
-      "Value": "蚊香君"
+      "Value": "蚊香蛙"
     },
     {
       "Key": "Poliwrath",
-      "Value": "蚊香泳士"
+      "Value": "快泳蛙"
     },
     {
       "Key": "Abra",
@@ -648,7 +648,7 @@
     },
     {
       "Key": "Kadabra",
-      "Value": "勇基拉"
+      "Value": "勇吉拉"
     },
     {
       "Key": "Alakazam",
@@ -660,7 +660,7 @@
     },
     {
       "Key": "Machoke",
-      "Value": "大力"
+      "Value": "豪力"
     },
     {
       "Key": "Machamp",
@@ -712,7 +712,7 @@
     },
     {
       "Key": "Slowbro",
-      "Value": "呆殼獸"
+      "Value": "呆河馬"
     },
     {
       "Key": "Magnemite",
@@ -728,7 +728,7 @@
     },
     {
       "Key": "Doduo",
-      "Value": "多多"
+      "Value": "嘟嘟"
     },
     {
       "Key": "Dodrio",
@@ -756,7 +756,7 @@
     },
     {
       "Key": "Cloyster",
-      "Value": "刺甲貝"
+      "Value": "鐵甲貝"
     },
     {
       "Key": "Gastly",
@@ -792,11 +792,11 @@
     },
     {
       "Key": "Voltorb",
-      "Value": "霹靂電球"
+      "Value": "雷電球"
     },
     {
       "Key": "Electrode",
-      "Value": "頑皮雷彈"
+      "Value": "頑皮彈"
     },
     {
       "Key": "Exeggcute",
@@ -808,19 +808,19 @@
     },
     {
       "Key": "Cubone",
-      "Value": "卡拉卡拉"
+      "Value": "可拉可拉"
     },
     {
       "Key": "Marowak",
-      "Value": "嘎啦嘎啦"
+      "Value": "嘎拉嘎拉"
     },
     {
       "Key": "Hitmonlee",
-      "Value": "飛腿郎"
+      "Value": "沙瓦郎"
     },
     {
       "Key": "Hitmonchan",
-      "Value": "快拳郎"
+      "Value": "艾比郎"
     },
     {
       "Key": "Lickitung",
@@ -836,11 +836,11 @@
     },
     {
       "Key": "Rhyhorn",
-      "Value": "獨角犀牛"
+      "Value": "鐵甲犀牛"
     },
     {
       "Key": "Rhydon",
-      "Value": "鑽角犀獸"
+      "Value": "鐵甲暴龍"
     },
     {
       "Key": "Chansey",
@@ -852,7 +852,7 @@
     },
     {
       "Key": "Kangaskhan",
-      "Value": "袋獸"
+      "Value": "袋龍"
     },
     {
       "Key": "Horsea",
@@ -880,7 +880,7 @@
     },
     {
       "Key": "MrMime",
-      "Value": "魔牆人偶"
+      "Value": "吸盤魔偶"
     },
     {
       "Key": "Scyther",
@@ -896,11 +896,11 @@
     },
     {
       "Key": "Magmar",
-      "Value": "鴨嘴火獸"
+      "Value": "鴨嘴火龍"
     },
     {
       "Key": "Pinsir",
-      "Value": "凱羅斯"
+      "Value": "大甲"
     },
     {
       "Key": "Tauros",
@@ -916,7 +916,7 @@
     },
     {
       "Key": "Lapras",
-      "Value": "拉普拉斯"
+      "Value": "乘龍"
     },
     {
       "Key": "Ditto",
@@ -928,19 +928,19 @@
     },
     {
       "Key": "Vaporeon",
-      "Value": "水伊布"
+      "Value": "水精靈"
     },
     {
       "Key": "Jolteon",
-      "Value": "雷伊布"
+      "Value": "雷精靈"
     },
     {
       "Key": "Flareon",
-      "Value": "火伊布"
+      "Value": "火精靈"
     },
     {
       "Key": "Porygon",
-      "Value": "多邊獸"
+      "Value": "3D龍"
     },
     {
       "Key": "Omanyte",
@@ -972,11 +972,11 @@
     },
     {
       "Key": "Zapdos",
-      "Value": "雷鳥"
+      "Value": "閃電鳥"
     },
     {
       "Key": "Moltres",
-      "Value": "火鳥"
+      "Value": "火焰鳥"
     },
     {
       "Key": "Dratini",
